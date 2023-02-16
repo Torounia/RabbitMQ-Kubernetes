@@ -1,7 +1,7 @@
 # RabbitMQ Deployed in Kubernetes
 
 ## Requirements:
-- [ ] Docker and Kubernetes based
+- [x] Docker and Kubernetes based
 - [ ] CICD pipeline with automatic testing
 - [ ] Package to Helm
 - [ ] Deploy to AWS EKS (infra provisioning using terraform)
